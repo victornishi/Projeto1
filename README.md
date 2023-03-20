@@ -1,2 +1,2 @@
 # Projeto1
-Repositório de projeto sobre detecção de spam
+Detecção de Fraudes no Tráfego de Cliques em Propagandas de Aplicações Mobile
